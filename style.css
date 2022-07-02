@@ -1,0 +1,121 @@
+h1 {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px;
+    width: 600px;
+    height: 87px;
+    margin-left: auto;       
+    margin-right: auto;
+    padding-top: 10px;
+}
+
+.ida{
+    display: inline-block;
+    background-color: rgb(199, 137, 137);
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px;
+    width: 30%;
+    height: 100px;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+    box-sizing: content-box;
+    letter-spacing:7px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.volta{
+    display: inline-block;
+    background-color: rgb(199, 137, 137);
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px;
+    width: 30%;
+    left: 790px;
+    height: 100px;
+    right: 100px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding: auto;
+    position: absolute;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}    
+
+.list1 {
+   color: brown;
+   font-weight: bold;
+   display: inline-block;
+   padding-left: 10px;
+   border-top: 10px;
+  
+}
+
+.list2 {
+    color: brown;
+    font-weight: bold;
+    display:inline-block;
+    padding-left: 350px;
+    padding-top: 10px;
+    
+    
+}
+.custo {
+    display: inline-block;
+    background-color: rgb(199, 137, 137);
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px;
+    width: 350px;
+    height: 100px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding: auto;
+    box-sizing: content-box;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.hospedagem {
+    display: inline-block;
+    background-color: rgb(199, 137, 137);
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px;
+    width: 500px;
+    height: 100px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding: auto;
+    margin: auto;
+    float: right;
+    box-sizing: content-box;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+    text-align:right;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.custo2 {
+    display: inline-block;
+    position: absolute;
+    left: 130px;
+    font-weight: bold;  
+}
+
+.hospedagem2 {
+    display: inline-block;
+    right: 150px;
+    position:absolute;
+    font-weight: bold;
+}
